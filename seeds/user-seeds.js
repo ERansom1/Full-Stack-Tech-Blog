@@ -4,8 +4,8 @@ const { User } = require('../models');
 // Creating sample users
 const userData = [
     {
-        user_name: 'Kyle Grabski',
-        email: 'kyle.grabski@gmail.com',
+        user_name: 'Ernest Ransom',
+        email: 'ernransom@gmail.com',
         password: 'test1234'
     },
     {
